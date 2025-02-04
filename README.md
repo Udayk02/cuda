@@ -1,4 +1,4 @@
-# cuda
+## cuda
 CUDA learning journey
 
 This repo is kind of a log that I keep to track the learning process of CUDA. 
@@ -9,3 +9,10 @@ This challenge is started by https://github.com/hkproj/.
 
 Checkout this [Discord](https://discord.gg/Wyx3FVtY) channel.
 ***
+## Day 1
+- learnt about cuda; cpu and gpu communication
+- parallel processing and kernels
+- cpu grid, blocks and threads
+- memory allocation and management
+
+did not get into writing code yet.
