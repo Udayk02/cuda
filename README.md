@@ -12,7 +12,7 @@ Checkout this [Discord](https://discord.gg/Wyx3FVtY) channel.
 ## Day 1
 - learnt about cuda; cpu and gpu communication
 - parallel processing and kernels
-- cpu grid, blocks and threads
+- gpu grid, blocks and threads
 - memory allocation and management
 
 did not get into writing code yet.
